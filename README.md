@@ -1,8 +1,6 @@
 # DIO bootcamp Powered by Ifood
 
 ![preview](https://user-images.githubusercontent.com/112431459/235795889-fffd29e7-c969-4101-bdbe-0c4f40f90008.PNG)
-)
-)
 
 > Projeto Pokedex
 
